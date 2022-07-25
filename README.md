@@ -12,13 +12,23 @@ This new assignment consists of three technical analysis deliverables and a writ
 
 1. ***Deliverable 1:*** Preprocessing the Data for PCA
 
+![image](https://github.com/DataJew/Cryptocurrencies/blob/main/Resources/images/crypto_df.png)
 
 2. ***Deliverable 2:*** Reducing Data Dimensions Using PCA
 
+![image](https://github.com/DataJew/Cryptocurrencies/blob/main/Resources/images/pcs_df.png)
 
 3. ***Deliverable 3:*** Clustering Cryptocurrencies Using K-means
 
+![image](https://github.com/DataJew/Cryptocurrencies/blob/main/Resources/images/clustered_df.png)
 
 4. ***Deliverable 4:*** Visualizing Cryptocurrencies Results
 
+![image](https://github.com/DataJew/Cryptocurrencies/blob/main/Resources/images/hvplot.table().png)
+
+![image](https://github.com/DataJew/Cryptocurrencies/blob/main/Resources/images/clustered_df_new.png)
+
+![image](https://github.com/DataJew/Cryptocurrencies/blob/main/Resources/images/3dcluster.png)
+
+![image](https://github.com/DataJew/Cryptocurrencies/blob/main/Resources/images/hvplot.png)
 
